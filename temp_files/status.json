@@ -1,0 +1,23 @@
+{
+    "args": "subreddit:mentalhealth",
+    "type": "split",
+    "completed_prefixes": [],
+    "files": [
+        [
+            "C:\\BecaColab\\reddit-automod\\PushshiftDumps\\scripts\\TEMP\\reddit\\submissions\\RS_2020-08.zst",
+            "temp_files\\RS_2020-08.zst",
+            false,
+            16756410,
+            0,
+            6159
+        ],
+        [
+            "C:\\BecaColab\\reddit-automod\\PushshiftDumps\\scripts\\TEMP\\reddit\\submissions\\RS_2020-09.zst",
+            "temp_files\\RS_2020-09.zst",
+            false,
+            19757920,
+            0,
+            7415
+        ]
+    ]
+}

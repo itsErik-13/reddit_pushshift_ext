@@ -1,0 +1,10 @@
+greenlet==3.1.1
+PyMySQL==1.1.1
+SQLAlchemy==2.0.35
+typing_extensions==4.12.2
+libtorrent
+zstandard
+praw
+python-dotenv
+mysql
+mysql-connector-python-rf
